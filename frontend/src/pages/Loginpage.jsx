@@ -80,7 +80,7 @@ const LoginPage = () => {
     />
         </div>
         <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900">
-          {isLogin ? 'Masuk ke Akun Anda' : 'Buat Akun Baru'}
+          {isLogin ? 'Sistem Informasi Pramuka Universitas Diponegoro' : 'Buat Akun Baru'}
         </h2>
       </div>
 
